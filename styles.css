@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #007bff;
+    padding: 20px;
+    color: white;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+.form-control {
+    margin-right: 10px;
+}
+
+.btn {
+    margin-left: 5px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-success {
+    font-weight: bold;
+}
